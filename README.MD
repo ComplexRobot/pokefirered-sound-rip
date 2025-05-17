@@ -1,0 +1,1 @@
+Sound rip from [pokefirered](https://github.com/pret/pokefirered) using a custom build of [pokefirered](https://github.com/ComplexRobot/pokefirered-tool/tree/audio-tool) and [NanoBoyAdvance](https://github.com/ComplexRobot/NanoBoyAdvance/tree/audio-extract).
