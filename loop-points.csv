@@ -36,7 +36,7 @@ mus_vs_gym_leader,3.1
 mus_vs_trainer,20.1
 mus_vs_wild,13.7
 mus_vs_champion,14.5
-mus_pallet,0.5
+mus_pallet,0.7
 mus_oak_lab,1.5
 mus_oak,14
 mus_poke_center,0.5
@@ -45,7 +45,7 @@ mus_surf,4.1
 mus_poke_tower,2.3
 mus_silph,4.2
 mus_fuchsia,2.5
-mus_celadon,2.7
+mus_celadon,2.8
 mus_victory_trainer,2.6
 mus_victory_wild,2.4
 mus_victory_gym_leader,6.6
@@ -74,5 +74,5 @@ mus_vs_legend,13.7
 mus_encounter_gym_leader,3.5
 mus_encounter_deoxys,0.5
 mus_trainer_tower,0.5
-mus_slow_pallet,0.5
+mus_slow_pallet,0.6
 mus_teachy_tv_menu,1
